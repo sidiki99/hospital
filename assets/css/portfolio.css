@@ -1,0 +1,29 @@
+
+.img-c{
+    background-color: #DADFDD;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit:cover;
+    
+}
+.container1{
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    border: 1px solid #ddd;
+      border-radius: 8px;
+      overflow: hidden;
+      max-width:800px;
+      font-size: 18px;
+      
+}
+   .logo{
+        width: auto ;
+        height: 50px;
+        border-radius: 50px;
+        
+      }
+      body{
+     
+      }
+
+    
